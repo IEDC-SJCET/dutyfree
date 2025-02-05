@@ -20,7 +20,7 @@ If your work is pretty cool, we'll approve the PR
 4. Options to select Faculty, Department, Year etc from a list
 5. Return text or render the final document in text File
 6. Options to select common or predefined permission template
-   - Flue
+   - Flu
    - Family Function
    - Some event
    - etc
@@ -33,7 +33,7 @@ Only those who got proper feedback from CTO need to complete these tasks.
 3. Read AI api key and url from JSON or env file
 4. Option to add signature of User
 5. Render in PDF
-6. Publish the CLI to corresponding package managing marketplace (pip, npm, crate etc)
+6. Publish the CLI to the corresponding package management marketplace (pip, npm, crate etc)
 
 > NB: Make sure the AI provider api key isn't published with CLI
 
